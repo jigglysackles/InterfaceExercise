@@ -29,9 +29,7 @@ public class Sho : ISho
     {
         Console.WriteLine("*slaps roof* This bad boy can haul so many damn kids.\n");
     }
-    // public string Menu { get; set; }
-
-
+    
     public string SendGreet()
     {
         return Greet;
