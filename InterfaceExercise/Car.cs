@@ -1,6 +1,6 @@
 ﻿namespace InterfaceExercise;
 
-public class Car :ICompany, IVehicle
+public class Car : ICompany, IVehicle
 {
     public string SedanOrCoupe { get; set; }
     public bool LowRideHeight { get; set; }
